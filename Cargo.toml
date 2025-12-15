@@ -1,0 +1,11 @@
+[package]
+name = "prill"
+version = "0.1.0"
+edition = "2024"
+authors = ["Spencer Lohrmann sklohrm@gmail.com"]
+description = "A small RPN-style calculator."
+
+[dependencies]
+
+[release]
+publish = false
